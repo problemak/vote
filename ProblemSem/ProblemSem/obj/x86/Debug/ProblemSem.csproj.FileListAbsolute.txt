@@ -1,0 +1,10 @@
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\Problem of opinion\Program\ProblemSem\ProblemSem\bin\Debug\ProblemSem.exe
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\Problem of opinion\Program\ProblemSem\ProblemSem\bin\Debug\ProblemSem.pdb
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\Problem of opinion\Program\ProblemSem\ProblemSem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\Problem of opinion\Program\ProblemSem\ProblemSem\obj\x86\Debug\ProblemSem.exe
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\Problem of opinion\Program\ProblemSem\ProblemSem\obj\x86\Debug\ProblemSem.pdb
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\GitOpinion\folder\Algorithm\ProblemSem\ProblemSem\bin\Debug\ProblemSem.exe
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\GitOpinion\folder\Algorithm\ProblemSem\ProblemSem\bin\Debug\ProblemSem.pdb
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\GitOpinion\folder\Algorithm\ProblemSem\ProblemSem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\GitOpinion\folder\Algorithm\ProblemSem\ProblemSem\obj\x86\Debug\ProblemSem.exe
+C:\Users\Veronika.Veronika-PC\Pracovní\Skola\ProblemSem\GitOpinion\folder\Algorithm\ProblemSem\ProblemSem\obj\x86\Debug\ProblemSem.pdb
